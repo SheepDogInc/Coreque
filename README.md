@@ -21,17 +21,17 @@ from showing in your list.
 
 # Scratchpad
 
-    - User lists projects that they're interested in
-    - Chrome Ext lists pull requests that you can assign yourself to
-    - Assigning you to it will display for all other users that you're doing it
-    - When pull request marks as closed, it will sync to the app as well
-    - Assign others to do code reviews
-    - Chrome Ext should have a notification count for 'unread' pull requests 
+ - User lists projects that they're interested in
+ - Chrome Ext lists pull requests that you can assign yourself to
+ - Assigning you to it will display for all other users that you're doing it
+ - When pull request marks as closed, it will sync to the app as well
+ - Assign others to do code reviews
+ - Chrome Ext should have a notification count for 'unread' pull requests 
 that are actionable to you
-    - All code reviewing still happens within GitHub
-    - All data should be exportable and reportable 
-        - potential game for quickest code reivew turnarounds
-    - Uses new GitHub API v3 to fetch pull request data
+ - All code reviewing still happens within GitHub
+ - All data should be exportable and reportable 
+     - potential game for quickest code reivew turnarounds
+ - Uses new GitHub API v3 to fetch pull request data
     
 # Contributing
 
