@@ -6,7 +6,8 @@
 Welcome to Coreque's documentation!
 ===================================
 
-Contents:
+We're currently in planning stages right now. We'll keep this up to date as
+things solidify. For the most up-to-date docs, check the README.md in the root.
 
 .. toctree::
    :maxdepth: 2
