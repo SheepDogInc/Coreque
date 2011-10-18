@@ -1,0 +1,14 @@
+.vagrant
+src/_generated_media
+*.db
+*.swp
+*.pyc
+*.tmproj
+*.project
+*.pydevproject
+.idea/
+atlassian-ide-settings.xml
+.DS_Store
+env
+venv
+docs/build
