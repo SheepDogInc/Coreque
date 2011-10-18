@@ -31,9 +31,10 @@ that are actionable to you
  - All code reviewing still happens within GitHub
  - All data should be exportable and reportable 
      - potential game for quickest code reivew turnarounds
- - Uses new GitHub API v3 to fetch pull request data
+ - Uses new [GitHub API v3][1] to fetch pull request data
     
 # Contributing
 
 Please make changes to this document, as we are still in problem definition mode!
 
+[1]: http://developer.github.com/
