@@ -17,8 +17,12 @@ a review to yourself.
     date as things solidify. For the most up-to-date docs, check the
     `README`_ file.
 
+Contents:
+
 .. toctree::
    :maxdepth: 2
+
+   api
 
 Indices and tables
 ==================
