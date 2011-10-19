@@ -34,6 +34,14 @@ that are actionable to you
  - All data should be exportable and reportable 
      - potential game for quickest code reivew turnarounds
  - Uses new [GitHub API v3][1] to fetch pull request data
+
+# Server API
+
+* Get all pull requests assigned to me  (Includes comments and new commits)
+* Assign myself to an open pull request
+* Start watching a project
+* Stop watching a project
+
     
 # Contributing
 
