@@ -1,6 +1,8 @@
 # Coreque
 ### COde REview QUEue
 
+Documentation is on [Read The Docs][2]!
+
 # Mile High Summary
 
 A simple way to claim pull request 'code reviews' as your own, and automate 
@@ -38,3 +40,4 @@ that are actionable to you
 Please make changes to this document, as we are still in problem definition mode!
 
 [1]: http://developer.github.com/
+[2]: http://coreque.readthedocs.org/
